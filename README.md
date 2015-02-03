@@ -1,2 +1,0 @@
-# ScriptWebParse
-auto web contral
